@@ -1,0 +1,32 @@
+# Welcome to Jekyll
+
+# This is the main Settings/Configuration page for this project
+# Here begin the site settings:
+title: 
+email: 
+description: 
+address: 
+
+# Below are the Custom Constants such as Socials or Authors etc.
+authorname:
+authoremail:
+authorfacebook:
+authorgithub: 
+
+# Below are the url dataholders:
+url: 
+baseurl: 
+
+# Markdown Settings
+markdown: kramdown
+
+# Sass Settings
+sass:
+  sass_dir: static/styles
+  style: 
+
+# Build Settings
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- README.md
